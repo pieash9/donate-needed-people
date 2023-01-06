@@ -150,12 +150,20 @@
 /* footer  */
 .footer{
     text-align: center;
+    background: #0B0D17;
+    padding: 43px 0;
+    margin-top: 130px;
 }
 .footer h3{
-    
+    font-weight: 400;
+    font-size: 36px;
+    color: #FF5959;
+    width: 100%;
+
 }
 .footer p{
-
+    color: #D9DBE1;
+    padding-top: 10px;
 }
 
 
